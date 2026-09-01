@@ -1,7 +1,5 @@
 <div align="center">
 
-# Terry Cornelusse
-
 **Data Analyst → Analytics Engineer** chez **Skello** · Paris 🇫🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terry-cornelusse-9ba668127/)
