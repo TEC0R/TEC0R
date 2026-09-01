@@ -26,19 +26,6 @@ Je construis et maintiens l'infrastructure data qui alimente les décisions de 6
 
 ---
 
-### 📊 Activité GitHub
-
-<div align="center">
-
-![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEC0R&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEC0R&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TEC0R&hide_border=true)
-
-</div>
-
----
-
 ### 💼 Expérience
 
 **Skello — Data Analyst** *(nov. 2024 – aujourd'hui)*
