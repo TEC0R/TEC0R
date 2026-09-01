@@ -1,6 +1,6 @@
 <div align="center">
 
-**Data Analyst → Analytics Engineer** chez **Skello** · Paris 🇫🇷
+## Data Analyst → Analytics Engineer chez Skello · Paris 🇫🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terry-cornelusse-9ba668127/)
 [![Email](https://img.shields.io/badge/Email-cornelusse.terry%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cornelusse.terry@gmail.com)
