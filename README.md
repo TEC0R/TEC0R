@@ -7,7 +7,7 @@
 
 </div>
 
-Je construis et maintiens l'infrastructure data qui alimente les décisions de 6 départements (Sales, Marketing, Finance, Ops, Produit, Tech).<br>
+Je construis et maintiens l'infrastructure data qui alimente les décisions de 6 départements (Sales, Marketing, Finance, Ops, Produit, Tech).<br><br>
 Mon objectif : transformer la donnée brute en insights actionnables et rendre les équipes métiers 100% autonomes avec à terme une évolution vers un rôle de **Data Engineer**.
 
 ---
