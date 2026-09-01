@@ -27,6 +27,13 @@ Je construis et maintiens l'infrastructure data qui alimente les décisions de 6
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Intercom](https://img.shields.io/badge/Intercom-1F8DED?style=for-the-badge&logo=intercom&logoColor=white)
 ![Chargebee](https://img.shields.io/badge/Chargebee-FF3300?style=for-the-badge&logo=chargebee&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 ---
 
