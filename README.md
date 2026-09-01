@@ -19,10 +19,7 @@ Je construis et maintiens l'infrastructure data qui alimente les décisions de 6
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)
-
-**Sources :** Salesforce · Chargebee · Stripe · Jira &nbsp;·&nbsp; **Modélisation :** Kimball
 
 ---
 
